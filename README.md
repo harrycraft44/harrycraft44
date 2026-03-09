@@ -10,19 +10,20 @@
 
 ---
 
-## 🧱 About Me
+## About Me
 
-- 🎮 Passionate Minecraft player & builder
-- 🌱 Always exploring new technologies
-- 💡 Love turning ideas into reality through code
-- 🏗️ Building things one block at a time
+- Passionate Minecraft player & builder
+- Always exploring new technologies
+- Love turning ideas into reality through code
+- Building things one block at a time
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
-
+  
+![c++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
