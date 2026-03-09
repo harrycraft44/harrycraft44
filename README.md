@@ -53,9 +53,6 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=harrycraft44&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=harrycraft44&theme=tokyonight&no-frame=true&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
