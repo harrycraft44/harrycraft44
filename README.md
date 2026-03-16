@@ -50,16 +50,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-</div>
-
----
-
-<div align="center">
-
-*⛏️ "The best way to build something great is one block at a time." ⛏️*
 
 </div>
