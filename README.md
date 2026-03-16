@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Harry!
+# Hey there, I'm Harry!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Holy+C+Enjoyer+%F0%9F%8E%AE;Always+learning+new+things+%F0%9F%93%9A;Building+cool+projects+%F0%9F%94%A8)](https://git.io/typing-svg)
 
